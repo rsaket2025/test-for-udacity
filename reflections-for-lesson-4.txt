@@ -1,0 +1,4 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks clone straight to GitHub, and make it easier to reccomend changes to the original creator.
+Clones clone straight to your computer.
+Branches are subsets of a repository.
